@@ -11,3 +11,4 @@ menerima jasa pembutan aplikasi contoh aplikasi iventaris barang
 
 -Jasa Penginstalan Jaringan Komputer
 *instalasi jaringan warnet
+*instasi jaringan kantor
