@@ -7,5 +7,5 @@ Wadah pengembangan teknologi komputer , Menjadikan Organisasi Hafittekno yang be
 Misi
 -Menyediakan Tutorial tentang ilmu teknologi komputer
 -Menbentuk sebuah tim dalam pengerjaan projek teknologi komputer
--Menyediakan aplikasi yang gratis atau berbayar,
--Menyediakan Jasa pembuatan aplikasi, Web, Dan desain
+-Menyediakan aplikasi yang gratis atau berbayar
+-Berinovasi
