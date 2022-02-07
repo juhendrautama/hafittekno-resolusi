@@ -7,6 +7,7 @@ menerima jasa pembutan aplikasi contoh aplikasi iventaris barang
 *pembuatan aplikasi penjualan
 
 -Jasa Desain Grafis
-menerima jasa desain contoh pembuatan logo
+*jasa pembuatan spanduk
+*jasa pembuatan header 
 
 -Jasa Penginstalan Jaringan Komputer
