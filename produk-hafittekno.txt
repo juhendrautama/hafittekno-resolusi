@@ -6,6 +6,8 @@ menerima jasa pembuatan website sekolah dll
 menerima jasa pembutan aplikasi contoh aplikasi iventaris barang
 
 -Jasa Desain Grafis
-menerima jasa desain contoh pembuatan logo
+*menerima jasa desain contoh pembuatan logo
+*pembuatan baner
 
 -Jasa Penginstalan Jaringan Komputer
+*instalasi jaringan warnet
