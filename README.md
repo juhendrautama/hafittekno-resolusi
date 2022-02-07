@@ -1,2 +1,2 @@
 # hafittekno-resolusi
-repository rencana kerja hafit tekno 
+repository tentang hafit tekno 
